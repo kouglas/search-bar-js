@@ -1,7 +1,7 @@
 # search-bar-js
  a search bar made with javascript
  
- you can view a live version [here]([https://app.netlify.com/sites/stunning-puffpuff-f649ca/overview](https://stunning-puffpuff-f649ca.netlify.app/))
+ you can view a live version [here]([https://app.netlify.com/sites/stunning-puffpuff-f649ca/overview](https://stunning-puffpuff-f649ca.netlify.app/)
  
  or
  
